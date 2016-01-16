@@ -7,7 +7,4 @@ final class NonStaticExampleFinal{
     System.out.println(thingToPrint);
   }
 
-
-
-
 }

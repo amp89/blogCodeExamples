@@ -8,9 +8,5 @@ public class ExtendingFinal extends NonStaticExampleFinal{
 
     printMe("This is a method from NonStaticExample!");
     System.out.println("This is new stuff!");
-
-
-
   }
-
 }

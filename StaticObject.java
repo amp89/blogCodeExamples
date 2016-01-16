@@ -10,7 +10,9 @@ public class StaticObject{
     //the statement below were included, because
     //StaticExample is marked private,
     //therefore a new Object cannot be instantiated.
+
     //StaticExample newObject = new StaticExample();
+
   }
 
 }

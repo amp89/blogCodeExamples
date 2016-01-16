@@ -6,8 +6,5 @@ public class NonStaticObject{
     //this code would not compile.
     NonStaticExample exampleObject = new NonStaticExample();
     exampleObject.printMe("This Will Print");
-
-
-
   }
 }
